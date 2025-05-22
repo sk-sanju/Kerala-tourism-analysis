@@ -128,8 +128,7 @@ A time series analysis of both foreign and domestic visitor flows (2017–2023).
 🧑‍🎓 BCA Graduate | Aspiring Data Analyst  
 📊 Skills: Power BI, SQL, Excel, Python, Data Modeling, ETL  
 🔗 Projects: Demand vs Supply Analysis, Gold Investment, Tata Motors Dashboard  
-📍 Location: India  
-📬 Email: [Your Email Here]
+📍 Location: India
 
 ---
 
