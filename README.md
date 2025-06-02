@@ -1,6 +1,6 @@
 # 🧭 Kerala Tourism Analytics Dashboard – Power BI
 
-![Dashboard Page 1](Page_1.png)
+![Dashboard Page 1](page_1.png)
 ![Dashboard Page 2](page_2.png)
 
 ## 📌 Project Overview
