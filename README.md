@@ -135,10 +135,10 @@ A time series analysis of both foreign and domestic visitor flows (2017–2023).
 ## 📌 Dashboard Previews
 
 ### Page 1 – Landing Page  
-![Page 1](Page_1.png)
+![Page 1](page_1.png)
 
 ### Page 2 – Yearly Trends  
-![Page 2](Page_2.png)
+![Page 2](page_2.png)
 
 ---
 
